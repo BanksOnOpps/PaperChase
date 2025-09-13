@@ -26,6 +26,16 @@ It’s a sleek, responsive frontend demo project showcasing how a betting-style 
 
 ---
 
+## 🖼 Screenshots  
+
+### 📱 Mobile View  
+![Mobile Preview](./screenshots/Dashboard.png)
+![Mobile Preview](./screenshots/Notifications.png)
+![Mobile Preview](./screenshots/Rewards.png)
+ 
+
+
+
 ## ⚙️ Getting Started  
 
 1. Clone the repository  
